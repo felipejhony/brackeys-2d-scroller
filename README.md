@@ -1,6 +1,6 @@
 # 🎮 Projeto Godot 2D - Platformer
 
-Um jogo 2D side scroller feito com Godot Engine, criado com foco em aprendizado e prática de desenvolvimento de jogos. O jogador controla um personagem que coleta moedas, pula obstáculos e deve evitar inimigos (slimes) para sobreviver.
+Um jogo 2D side scroller feito com Godot Engine, criado com foco em aprendizado e prática de desenvolvimento de jogos. O jogador controla um personagem que coleta moedas, pula obstáculos e deve evitar inimigos (slimes) para sobreviver. Segui esse tutorial: https://www.youtube.com/watch?v=LOhfqjmasi0
 
 ---
 
