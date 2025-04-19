@@ -20,7 +20,7 @@ Um jogo 2D side scroller feito com Godot Engine, criado com foco em aprendizado 
 
 ## ⚙️ Tecnologias
 
-- ![Godot](https://img.shields.io/badge/Godot-3.5+-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white)
+- Godot
 - Linguagem: GDScript
 - Plataforma: PC/Desktop
 
