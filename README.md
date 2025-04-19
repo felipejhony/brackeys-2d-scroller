@@ -6,7 +6,7 @@ Um jogo 2D side scroller feito com Godot Engine, criado com foco em aprendizado 
 
 ## 📸 Gameplay
 
-<img src="assets/demo.gif" alt="Screenshot do jogo" width="600"/>
+<img src="assets/gifs/demo.gif" alt="Screenshot do jogo" width="600"/>
 
 ---
 
